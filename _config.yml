@@ -1,11 +1,11 @@
 # the base URL of your notes Github pages website
-base_url: https://abhin4v.github.io/precis
+base_url: https://plan.sempe.net
 
 # the URL of your notes Github repo
-repo_url: https://github.com/abhin4v/precis
+repo_url: https://github.com/gsempe/plan/
 
 # the name for your notes website
-name: Precis
+name: Plan
 
 # the description of the notes website
-description: Precis is a minimal note taking web-app built over Github Pages. This website itself is built using Precis. Look at the notes below to learn about it.
+description: This is my daily work...
