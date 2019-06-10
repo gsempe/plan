@@ -1,10 +1,11 @@
-# Precis
+# Plan
 
-Precis is a minimal note taking web-app built over Github Pages. This website itself is built using Precis. Look at the notes below to learn about it.
+This is my daily work...
 
 ## Tags
 
-- [](./tags/)
+- [tech-intelligence](./tags/tech-intelligence)
 
 ## Notes
 
+- *2019-06-09* [20190609](./20190609)
