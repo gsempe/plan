@@ -1,6 +1,6 @@
 # Plan
 
-This is my daily work...
+This is my daily work
 
 ## Tags
 
