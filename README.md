@@ -6,7 +6,6 @@ This is my daily work
 
 - [css](./tags/css)
 - [journal](./tags/journal)
-- [journal,](./tags/journal,)
 - [sql](./tags/sql)
 - [tech-intelligence](./tags/tech-intelligence)
 
