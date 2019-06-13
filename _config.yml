@@ -1,9 +1,3 @@
-# the base URL of your notes Github pages website
-base_url: https://plan.sempe.net
-
-# the URL of your notes Github repo
-repo_url: https://github.com/gsempe/plan/
-
 # the name for your notes website
 name: Plan
 
