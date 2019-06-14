@@ -1,0 +1,38 @@
+#!/bin/sh
+
+function usage
+{
+    echo "usage: $0 -n 'file_name'"
+
+}
+
+FILENAME=
+
+while [ "$1" != "" ]; do
+        case $1 in
+                -n | --filename )               shift
+                                                FILENAME=$1
+                                                ;;
+                -h | --help )                   usage
+                                                exit
+                                                ;;
+                * )                             usage
+                                                exit 1
+        esac
+        shift
+done
+
+if [ "$FILENAME" == "" ]; then
+        usage
+        exit 1
+fi
+
+DATE=`date +%Y-%m-%d`
+
+cat > $FILENAME <<- EOM
+---
+date: $DATE
+tags:
+---
+EOM
+
