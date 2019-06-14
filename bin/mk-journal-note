@@ -6,6 +6,11 @@ KEY_T="tags"
 FILENAME=journal-`date +%Y%m%d`.md
 DATE=`date +%Y-%m-%d`
 
+if [ -f $FILENAME ]; then
+    echo "$FILENAME exists"
+    exit 1
+fi
+
 cat > $FILENAME <<- EOM
 $SEP
 $KEY_D: $DATE
