@@ -1,11 +1,12 @@
 #!/bin/sh
 
+SEP="---"
 FILENAME=journal-`date +%Y%m%d`.md
 DATE=`date +%Y-%m-%d`
 
 cat > $FILENAME <<- EOM
----
+$SEP
 date: $DATE
 tags: journal
----
+$SEP
 EOM
