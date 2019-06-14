@@ -1,12 +1,14 @@
 #!/bin/sh
 
 SEP="---"
+KEY_D="date"
+KEY_T="tags"
 FILENAME=journal-`date +%Y%m%d`.md
 DATE=`date +%Y-%m-%d`
 
 cat > $FILENAME <<- EOM
 $SEP
-date: $DATE
-tags: journal
+$KEY_D: $DATE
+$KEY_T: journal
 $SEP
 EOM
