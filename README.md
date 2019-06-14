@@ -8,6 +8,7 @@ This is my daily work
 - [email](./tags/email)
 - [general-knowledge](./tags/general-knowledge)
 - [journal](./tags/journal)
+- [sendy](./tags/sendy)
 - [sql](./tags/sql)
 - [ssl](./tags/ssl)
 - [tech-intelligence](./tags/tech-intelligence)

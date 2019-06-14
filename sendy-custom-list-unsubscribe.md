@@ -1,6 +1,6 @@
 ---
 date: 2019-06-13
-tags: email
+tags: email sendy
 ---
 
 [Sendy](https://sendy.co/?ref=28Y1X) by default adds a `List-Unsubscribe` header that links the unsubscribe page of your Sendy installation.
@@ -21,7 +21,7 @@ $mail->AddCustomHeader('List-Unsubscribe: <'.$app_path.'/unsubscribe/'.short($em
 
 Sendy comes with two default fields:
 
-* Name
+* Name  
 * Email
 
 Let's pretend that you add 5 more fields:
@@ -48,5 +48,5 @@ sudo service apache2 restart
 
 References:
 
-* [Adding Custom Headers (List-Unsubscribe, List-Id, etc.)](https://sendy.co/forum/discussion/1027/adding-custom-headers-list-unsubscribe-list-id-etc-/)
+* [Adding Custom Headers (List-Unsubscribe, List-Id, etc.)](https://sendy.co/forum/discussion/1027/adding-custom-headers-list-unsubscribe-list-id-etc-/).  
 * [List Unsubscribe Header](https://sendy.co/forum/discussion/750/list-unsubscribe-header/p1)
