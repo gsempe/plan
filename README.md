@@ -7,6 +7,7 @@ This is my daily work
 - [css](./tags/css)
 - [email](./tags/email)
 - [general-knowledge](./tags/general-knowledge)
+- [golang](./tags/golang)
 - [journal](./tags/journal)
 - [sendy](./tags/sendy)
 - [sql](./tags/sql)
