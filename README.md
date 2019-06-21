@@ -5,6 +5,7 @@ This is my daily work
 ## Tags
 
 - [css](./tags/css)
+- [csv](./tags/csv)
 - [email](./tags/email)
 - [general-knowledge](./tags/general-knowledge)
 - [golang](./tags/golang)
@@ -12,6 +13,7 @@ This is my daily work
 - [journal](./tags/journal)
 - [localization](./tags/localization)
 - [sendy](./tags/sendy)
+- [spreadsheet](./tags/spreadsheet)
 - [sql](./tags/sql)
 - [ssl](./tags/ssl)
 - [tech-intelligence](./tags/tech-intelligence)
@@ -19,6 +21,8 @@ This is my daily work
 
 ## Notes
 
+- *2019-06-18* [journal-20190618](./journal-20190618)
+- *2019-06-17* [spreadsheet-whole-column-quote](./spreadsheet-whole-column-quote)
 - *2019-06-16* [journal-20190616](./journal-20190616)
 - *2019-06-15* [golang-localization-i18n](./golang-localization-i18n)
 - *2019-06-14* [journal-20190614](./journal-20190614)
