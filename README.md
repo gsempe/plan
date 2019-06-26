@@ -23,6 +23,7 @@ This is my daily work
 
 ## Notes
 
+- *2019-06-25* [journal-20190625](./journal-20190625)
 - *2019-06-21* [journal-20190621](./journal-20190621)
 - *2019-06-18* [journal-20190618](./journal-20190618)
 - *2019-06-17* [spreadsheet-whole-column-quote](./spreadsheet-whole-column-quote)
