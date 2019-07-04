@@ -18,11 +18,13 @@ This is my daily work
 - [spreadsheet](./tags/spreadsheet)
 - [sql](./tags/sql)
 - [ssl](./tags/ssl)
+- [swift](./tags/swift)
 - [tech-intelligence](./tags/tech-intelligence)
 - [tls](./tags/tls)
 
 ## Notes
 
+- *2019-07-04* [journal-20190704](./journal-20190704)
 - *2019-06-28* [journal-20190628](./journal-20190628)
 - *2019-06-25* [journal-20190625](./journal-20190625)
 - *2019-06-21* [journal-20190621](./journal-20190621)
