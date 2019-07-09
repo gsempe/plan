@@ -14,9 +14,11 @@ This is my daily work
 - [journal](./tags/journal)
 - [localization](./tags/localization)
 - [precis](./tags/precis)
+- [scp](./tags/scp)
 - [sendy](./tags/sendy)
 - [spreadsheet](./tags/spreadsheet)
 - [sql](./tags/sql)
+- [ssh](./tags/ssh)
 - [ssl](./tags/ssl)
 - [swift](./tags/swift)
 - [tech-intelligence](./tags/tech-intelligence)
@@ -24,6 +26,7 @@ This is my daily work
 
 ## Notes
 
+- *2019-07-08* [journal-20190708](./journal-20190708)
 - *2019-07-05* [journal-20190705](./journal-20190705)
 - *2019-07-04* [journal-20190704](./journal-20190704)
 - *2019-06-28* [journal-20190628](./journal-20190628)
