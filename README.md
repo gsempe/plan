@@ -22,10 +22,12 @@ This is my daily work
 - [ssl](./tags/ssl)
 - [swift](./tags/swift)
 - [tech-intelligence](./tags/tech-intelligence)
+- [test](./tags/test)
 - [tls](./tags/tls)
 
 ## Notes
 
+- *2019-07-12* [journal-20190712](./journal-20190712)
 - *2019-07-08* [journal-20190708](./journal-20190708)
 - *2019-07-05* [journal-20190705](./journal-20190705)
 - *2019-07-04* [journal-20190704](./journal-20190704)
