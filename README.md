@@ -27,6 +27,7 @@ This is my daily work
 
 ## Notes
 
+- *2019-07-15* [journal-20190715](./journal-20190715)
 - *2019-07-12* [journal-20190712](./journal-20190712)
 - *2019-07-08* [journal-20190708](./journal-20190708)
 - *2019-07-05* [journal-20190705](./journal-20190705)
