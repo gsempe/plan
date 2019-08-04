@@ -27,6 +27,8 @@ This is my daily work
 
 ## Notes
 
+- *2019-07-26* [golang-fileserver-custom-notfound](./golang-fileserver-custom-notfound)
+- *2019-07-17* [journal-20190717](./journal-20190717)
 - *2019-07-15* [journal-20190715](./journal-20190715)
 - *2019-07-12* [journal-20190712](./journal-20190712)
 - *2019-07-08* [journal-20190708](./journal-20190708)
