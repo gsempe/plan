@@ -4,6 +4,7 @@ This is my daily work
 
 ## Tags
 
+- [](./tags/)
 - [css](./tags/css)
 - [csv](./tags/csv)
 - [email](./tags/email)
@@ -11,6 +12,7 @@ This is my daily work
 - [git](./tags/git)
 - [golang](./tags/golang)
 - [i18n](./tags/i18n)
+- [ios](./tags/ios)
 - [journal](./tags/journal)
 - [localization](./tags/localization)
 - [precis](./tags/precis)
@@ -29,6 +31,7 @@ This is my daily work
 
 ## Notes
 
+- *2019-08-04* [journal-20190804](./journal-20190804)
 - *2019-07-31* [journal-20190731](./journal-20190731)
 - *2019-07-26* [golang-fileserver-custom-notfound](./golang-fileserver-custom-notfound)
 - *2019-07-17* [journal-20190717](./journal-20190717)
