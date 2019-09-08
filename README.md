@@ -5,18 +5,23 @@ This is my daily work
 ## Tags
 
 - [](./tags/)
+- [aws](./tags/aws)
 - [css](./tags/css)
 - [csv](./tags/csv)
 - [db](./tags/db)
+- [devop](./tags/devop)
 - [email](./tags/email)
+- [font](./tags/font)
 - [general-knowledge](./tags/general-knowledge)
 - [git](./tags/git)
 - [golang](./tags/golang)
 - [http-vulnerability](./tags/http-vulnerability)
 - [i18n](./tags/i18n)
 - [ios](./tags/ios)
+- [javascript](./tags/javascript)
 - [journal](./tags/journal)
 - [localization](./tags/localization)
+- [marketing](./tags/marketing)
 - [postgresql](./tags/postgresql)
 - [precis](./tags/precis)
 - [pubsub](./tags/pubsub)
@@ -27,6 +32,7 @@ This is my daily work
 - [sql](./tags/sql)
 - [ssh](./tags/ssh)
 - [ssl](./tags/ssl)
+- [sudoku](./tags/sudoku)
 - [swift](./tags/swift)
 - [tech-intelligence](./tags/tech-intelligence)
 - [test](./tags/test)
@@ -35,6 +41,11 @@ This is my daily work
 
 ## Notes
 
+- *2019-08-14* [journal-20190814](./journal-20190814)
+- *2019-08-10* [sudoku-references](./sudoku-references)
+- *2019-08-10* [journal-20190810](./journal-20190810)
+- *2019-08-10* [golang-append](./golang-append)
+- *2019-08-05* [journal-20190805](./journal-20190805)
 - *2019-08-04* [journal-20190804](./journal-20190804)
 - *2019-08-04* [http-response-splitting-vulnerability](./http-response-splitting-vulnerability)
 - *2019-08-04* [golang-postgres-publish-subscribe](./golang-postgres-publish-subscribe)
